@@ -1,4 +1,7 @@
 
+.rajnicolor{
+  background-color: aqua !important;
+}
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -6831,10 +6834,13 @@
     background-color: #dae0e5 !important;
   }
   
-  .bg-dark {
+ /*  .bg-dark {
     background-color: #343a40 !important;
+  } */
+   
+  .bg-dark {
+    background-color: #343a40 ;
   }
-  
   a.bg-dark:hover, a.bg-dark:focus,
   button.bg-dark:hover,
   button.bg-dark:focus {
