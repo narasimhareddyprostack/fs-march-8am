@@ -2,6 +2,7 @@ class Account {
     constructor() {
         console.log("Account Class Constructor")
     }
+    //business logic
 }
 let min_Bal = 500
 //export default Account     - Es6
